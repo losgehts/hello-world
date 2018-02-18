@@ -5,7 +5,7 @@ just a first test
 this is my first repo. So I want to do some tests.
 
 ### Lists
-Lets add a List:
+Lets add a list:
 * fruits
 	- apple
 	- banana
