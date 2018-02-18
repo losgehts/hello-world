@@ -14,3 +14,5 @@ Lets add a list:
 	- aubergine
 	- potato
 
+# license
+This project is a dummy project. It is under the MIT-license. See license file.
