@@ -18,4 +18,5 @@ Lets add a list:
 This project is a dummy project. It is under the MIT-license. See license file.
 
 # asldkj
-just have a look on [https://github.com/losgehts/hello-world/issues/2](#2)
+just have a look on [https://github.com/losgehts/hello-world/issues/2](#2) and [https://github.com/losgehts/hello-world/issues/1](#1).
+
