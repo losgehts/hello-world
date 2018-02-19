@@ -9,6 +9,7 @@ Lets add a list:
 * fruits
 	- apple
 	- banana
+    - strawberry
 
 * vegetables
 	- aubergine
